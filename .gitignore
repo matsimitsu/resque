@@ -1,0 +1,12 @@
+.env
+.DS_Store
+.bundle
+.sass-cache
+tmp
+bin
+log/*
+public/uploads
+public/stylesheets/*.css
+public/images/*sprite_info.yml
+spec/javascripts/seeds/events.js
+/coverage/
